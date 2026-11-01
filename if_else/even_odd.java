@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CheckEvenOdd{
+class EvenOdd{
     public static void main(String[] arg){
         Scanner s =new Scanner(System.in);
         System.out.println("Enter a integer");

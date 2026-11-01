@@ -10,17 +10,17 @@ public class GreaterOfNum {
         int c=s.nextInt();
         if(a>b){
             if(a>c)
-                System.out.println("a is greatest of them");
+                System.out.println(a+" is greatest of them");
             else
-                System.out.println("c is greatest of them");
+                System.out.println(c+" is greatest of them");
 
         }   
         else
             if(b>c)
-                System.out.println("b is greatest of them");
+                System.out.println(b+"is greatest of them");
 
             else
-                System.out.println("c is greatest of them");
+                System.out.println(c+" is greatest of them");
 
     }    
 }
